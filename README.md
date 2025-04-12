@@ -1,5 +1,6 @@
 # Group Work Assignment
 Creating a Database Bookstore
+
 Creating tables into the database:- 
                   ✔ book
                   ✔ book_author
@@ -16,4 +17,5 @@ Creating tables into the database:-
                   ✔ shipping_method
                   ✔ order_history
                   ✔ order_status
+                  
 Creating user groups, granting access privileges, and assigning roles.
